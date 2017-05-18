@@ -3,7 +3,7 @@ EasyRulesGO
 A port of EasyRules to Golang
 http://www.easyrules.org/
 
-Please read the EasyRyles link for a quick intro to the concepts and workflows.
+Please read the EasyRules link for a quick intro to the concepts and workflows.
 
 [![Build Status](https://travis-ci.org/CrowdStrike/easyrulesgo.svg?branch=master)](https://travis-ci.org/CrowdStrike/easyrulesgo)
 
